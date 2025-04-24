@@ -6,6 +6,10 @@ weather app built with Flutter framework.
 
 It fetches real-time temperature data from a weather API and reflects changes in temperature through background color transitions.
 
+## 📌 Data source
+
+- Free Weather API: http://api.weatherapi.com/v1
+
 ## 🛠️ Tech
 
 - Flutter
